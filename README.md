@@ -217,5 +217,3 @@ The following visualizations were created:
 5. Monitor declining revenue trends and adjust sales strategies accordingly.
 
 ---
-
-## Project Structure
